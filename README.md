@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, my name is Diego
+#### I am back-end & android dev
 
-<!--
-**Granahh/Granahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Kotlin - Java - Javascript - Typecript - SQL - Node.js - Express.js - MongoDB - MySQL 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Besoccer - Resultados de Futbol 
+- 🌱 I’m currently learning Backend technologies and architectures 
+- 🤔 I’m looking for help with learn about blockchain 
+- 📫 How to reach me: infodiegohermoso@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Granahh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/diego-hermoso-mourinov-232099167//)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Granahh)  
+
+![Profile views](https://gpvc.arturio.dev/Granahh)  
