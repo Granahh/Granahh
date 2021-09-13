@@ -3,7 +3,7 @@
 
 Skills: Kotlin - Java - Javascript - Typecript - SQL - Node.js - Express.js - MongoDB - MySQL 
 
-- 🔭 I’m currently working on Besoccer - Resultados de Futbol 
+- 🔭 I’m currently working at Besoccer - Resultados de Futbol 
 - 🌱 I’m currently learning Backend technologies and architectures 
 - 🤔 I’m looking for help with learn about blockchain 
 - 📫 How to reach me: infodiegohermoso@gmail.com 
