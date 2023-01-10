@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=granahh&label=Profile%20views&color=0e75b6&style=flat" alt="granahh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=granahh" alt="granahh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=granahh&theme=matrix" alt="granahh" /></a> </p>
 
 - 🔭 I’m currently working at [Promofarma by Docmorris](https://www.promofarma.com/)
 - 🌱 I’m currently learning **Backend technologies and architectures (DDD, Hexagonal Architecture, CQRS)**
