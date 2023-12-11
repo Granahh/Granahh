@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=granahh&theme=matrix" alt="granahh" /></a> </p>
 
-- 🔭 I’m currently working at [Promofarma by Docmorris](https://www.promofarma.com/)
+- 🔭 I’m currently working at [Cobee]([https://www.promofarma.com/](https://cobee.io/))
 - 🌱 I’m currently learning **Backend technologies and architectures (DDD, Hexagonal Architecture, CQRS)**
 - 👨‍💻 Do you like cryptos and coffee? download my app [Cryptocoffee](https://play.google.com/store/apps/details?id=com.infodiegohermoso.cryptocoffee&hl=es_419&gl=US)
 
